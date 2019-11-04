@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
     <customValue>
+        <fullName>United States</fullName>
+        <default>false</default>
+        <label>United States</label>
+    </customValue>
+    <customValue>
         <fullName>Canada</fullName>
         <default>false</default>
         <label>Canada</label>
@@ -34,6 +39,11 @@
         <fullName>Amsterdam</fullName>
         <default>false</default>
         <label>Amsterdam</label>
+    </customValue>
+    <customValue>
+        <fullName>Philippines</fullName>
+        <default>false</default>
+        <label>Philippines</label>
     </customValue>
     <masterLabel>Country</masterLabel>
     <sorted>false</sorted>
